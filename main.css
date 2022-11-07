@@ -1,0 +1,18 @@
+html {
+    background-color: darkturquoise;
+    font-size: 50px;
+}
+div.phone {
+    margin-left:270px ;
+    margin-top: 200px;
+    margin-bottom: 250px;
+}
+div.inn {
+    margin-left: 270px;
+
+}
+div.txt {
+    display: flex;
+    justify-content: center;
+    margin-top: 110px;
+}
